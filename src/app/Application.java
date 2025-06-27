@@ -7,7 +7,7 @@ public class Application {
         // ---------------------------------------------------------------------------------------
         // Etape 1 : Création d'une voiture de Formule 1
         // ---------------------------------------------------------------------------------------
-
+        System.out.println("Deger");
         // ---------------------------------------------------------------------------------------
         // Etape 2 : Afficher la voiture
         // ---------------------------------------------------------------------------------------
@@ -31,7 +31,8 @@ public class Application {
 
         // getPneusEnReserveSansTrous() et afficher les pneus en réserve
 
-        // pressionMoyenneDesPneusEnReserveFormatee() et afficher la pression moyenne des
+        // pressionMoyenneDesPneusEnReserveFormatee() et afficher la pression moyenne
+        // des
         // pneus
 
         // compterNombrePneusEnReserveDeType() et afficher le nombre de pneus en réserve
